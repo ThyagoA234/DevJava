@@ -1,0 +1,82 @@
+body{
+    background-color: rgb(180, 185, 185);
+}
+
+.paginainicial {
+    width: 200vh;
+    height: 80vh;
+    display: flex;
+    background-color: rgb(180, 185, 185);
+    text-align: center;
+    border-left:25vh;
+}
+
+.incluirdados {
+    width: 70vh;
+    height: 65vh;
+    border: solid black 1px;
+    margin-left: 18vh;
+    margin-top: 10vh;
+    background-color: white;
+
+}
+
+.titulo2{
+    font-size: 5vh;
+}
+.exibirdados {
+    width: 70vh;
+    height: 65vh;
+    border: solid black 1px;
+    margin-left: 18vh;
+    margin-top: 10vh;
+
+}
+
+.titulo {
+    font-size: 12vh;
+    margin-top: 30px;
+}
+
+.dados {
+    height: 6vh;
+    width: 38vh;
+}
+.info,.info2,
+.info3,
+.info4,
+.info5  {
+    margin-left: 5vh;
+    margin-right: 5vh;
+    display: flex;
+    font-size: 3vh;
+}
+
+
+.Editar {
+    width: 10vh;
+    height: 20px;
+    margin-left: 2vh;
+    border-radius: 2vh;
+    background-color:aqua;
+    
+
+}
+
+.Excluir {
+    width: 10vh;
+    height: 20px;
+    margin-left: 2vh;
+    border-radius: 2vh;
+    background-color:red;
+    
+}
+
+.Confirmar {
+    width: 40vh;
+    height: 10vh;
+    border-radius: 2vh;
+    margin-top: 5vh;
+    background-color: green;
+    color: white;
+}

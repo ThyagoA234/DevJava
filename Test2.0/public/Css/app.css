@@ -1,0 +1,92 @@
+.paginainicial {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    background-color: rgb(82, 245, 191);
+    text-align: center;
+    border-left: 25vh;
+    border: solid black 1px;
+}
+
+.incluirdados {
+    width: 40vh;
+    height: 25vh;
+    border: solid black 1px;
+    border-radius: 2vh;
+    margin-left: 26%;
+    background-color: white;
+    margin-top: 10vh;
+
+}
+
+.titulo2 {
+    font-size: 5vh;
+}
+
+.exibirdados {
+    width: 60vh;
+    height: 55vh;
+    margin-left: 20vh;
+    border: black 1px solid;
+    border-radius: 2vh;
+    background-color: white;
+    margin-top: 10vh;
+
+}
+
+.logo {
+    width: 10vh;
+    height: 10vh;
+    margin-bottom: 2vh;
+}
+
+.input {
+    height: 6vh;
+    width: 30vh;
+    margin-top: 5vh;
+}
+
+.info {
+    margin-left: 5vh;
+    margin-right: 5vh;
+    display: flex;
+    font-size: 3vh;
+}
+
+.Editar,
+.Excluir {
+    width: 18vh;
+    height: 3vh;
+    border-radius: 2vh;
+
+}
+
+.Editar {
+    background-color: aqua;
+}
+
+.Excluir {
+    background-color: red;
+}
+
+.btn btn-primary {
+    margin-top: 5vh;
+}
+
+.escopo {
+    display: flex;
+    border-bottom: solid black 1px;
+}
+
+.id{
+    margin-left:2% ;
+    font-size: 5vh;
+    text-align: left;
+    margin-left: 2vh;
+}
+
+.desc{
+    margin-left:50% ;
+    font-size: 5vh;
+    
+}
